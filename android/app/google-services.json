@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144985163612",
+    "project_id": "anstream-5a8da",
+    "storage_bucket": "anstream-5a8da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144985163612:android:2ac0f7b878825ff74f2399",
+        "android_client_info": {
+          "package_name": "com.example.anstream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyuivBhFItHn1OUM-XDDj0caW_o0brO4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
